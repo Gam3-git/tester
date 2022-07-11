@@ -1,0 +1,2 @@
+<?php
+print('say hi');
